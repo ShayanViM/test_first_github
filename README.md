@@ -2,7 +2,8 @@
 
 This repository is for practicing Git and GitHub.
 
-## Topics
+first project.
+# Topics
 
 - Git basics
 - Version control
