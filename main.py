@@ -1,5 +1,5 @@
 def greet():
-	print("Hello GitHub")
+	print("Hello from GitHub")
 
 
 greet()
